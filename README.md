@@ -152,11 +152,12 @@
 
 ## Forges
 
-While Jujutsu works with Git compatible forges like GitHub, there are also some new forges worth mentioning, and some of them are exploring/offering a better integration and support for Jujutsu.
+While Jujutsu works with Git compatible forges like GitHub, there are also some new forges/platforms worth mentioning, and some of them are exploring/offering a better integration and support for Jujutsu.
 
-- [Jujubi](https://juju.bi/) - Modern code forge built for speed
+- [ERSC](https://ersc.io/) - Source control that scales as you grow ([Early Access](https://ersc.io/blog/ersc-availability))
+- [Jujubi](https://juju.bi/) - Modern code forge built for speed (Early Access)
 - [Radicle](https://radicle.dev/) - The sovereign forge
-- [Revset](https://www.revset.dev/) - Commit First Code Forge
+- [Revset](https://www.revset.dev/) - Commit First Code Forge (Early Access)
 - [Tangled](https://tangled.org/) - The next-generation social coding platform
 
 ### Miscellaneous
