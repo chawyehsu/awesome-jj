@@ -149,6 +149,8 @@
 - https://github.com/dmmulroy/jj-starship - Unified Starship prompt module for Git and Jujutsu
 - https://github.com/jnsahaj/lumen - A diff viewer and code review TUI and CLI to generate commit messages with AI
 - https://github.com/anthrofract/majjit - A TUI to manipulate the Jujutsu DAG
+- https://github.com/hugoh/hrd - Multi-repo manager (TUI & CLI) for git and jj with parallel dispatch and live status
+- https://github.com/hugoh/jj-trim - Clean up merged bookmarks and abandoned anonymous commits in a jj repository
 
 ## Forges
 
