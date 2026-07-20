@@ -93,18 +93,18 @@
 
 ### GUI
 
-- https://github.com/gulbanana/gg - Gui for JJ
-- https://github.com/hewigovens/jayjay - A native macOS GUI for Jujutsu (jj)
-- https://checksimsoftware.com/jjewel - A native Mac client for the Jujutsu version control system
-- https://github.com/chronologos/lightjj - A fast, powerful, single-binary Jujutsu client
+- [gg](https://github.com/gulbanana/gg) - Gui for JJ
+- [jayjay](https://github.com/hewigovens/jayjay) - A native macOS GUI for Jujutsu (jj)
+- [jjewel](https://checksimsoftware.com/jjewel) - A native Mac client for the Jujutsu version control system
+- [lightjj](https://github.com/chronologos/lightjj) - A fast, powerful, single-binary Jujutsu client
 
 ### TUI
 
-- https://github.com/tim-janik/jj-fzf - Text UI for Jujutsu based on fzf
-- https://github.com/joshka/jk - A jj-native terminal UI for Jujutsu
-- https://github.com/idursun/jjui - TUI designed for interacting with the Jujutsu version control system
-- https://github.com/faldor20/jj_tui - A TUI for the Jujutsu version control system
-- https://github.com/Cretezy/lazyjj - TUI for Jujutsu/jj, built in Rust with Ratatui
+- [jj-fzf](https://github.com/tim-janik/jj-fzf) - Text UI for Jujutsu based on fzf
+- [jk](https://github.com/joshka/jk) - A jj-native terminal UI for Jujutsu
+- [jjui](https://github.com/idursun/jjui) - TUI designed for interacting with the Jujutsu version control system
+- [jj_tui](https://github.com/faldor20/jj_tui) - A TUI for the Jujutsu version control system
+- [lazyjj](https://github.com/Cretezy/lazyjj) - TUI for Jujutsu/jj, built in Rust with Ratatui
 
 ### Editor Integration
 
@@ -131,24 +131,26 @@
 
 ### Workflows
 
-- https://github.com/dmmulroy/jj-ryu - Stacked PRs for Jujutsu. Push bookmark stacks to GitHub and GitLab as chained pull requests
-- https://github.com/jennings/jj-spr - Super Pull Requests (SPR) is the power tool for Jujutsu + GitHub workflows
-- https://github.com/keanemind/jj-stack - Stacked PRs on GitHub for Jujutsu
-- https://codeberg.org/abrenneke/jj-vine - A tool for submitting stacked Pull/Merge Requests from Jujutsu bookmarks
-- https://github.com/eersnington/jj-navi - Workspace navigation and management for Jujutsu
-- https://github.com/mrjones2014/jj-gh - jj tools for working with GitHub PRs from your terminal
-- https://github.com/glennib/stakk - A tool that bridges Jujutsu bookmarks to GitHub stacked pull requests
+- [jj-ryu](https://github.com/dmmulroy/jj-ryu) - Stacked PRs for Jujutsu. Push bookmark stacks to GitHub and GitLab as chained pull requests
+- [jj-spr](https://github.com/jennings/jj-spr) - Super Pull Requests (SPR) is the power tool for Jujutsu + GitHub workflows
+- [jj-stack](https://github.com/keanemind/jj-stack) - Stacked PRs on GitHub for Jujutsu
+- [jj-vine](https://codeberg.org/abrenneke/jj-vine) - A tool for submitting stacked Pull/Merge Requests from Jujutsu bookmarks
+- [jj-navi](https://github.com/eersnington/jj-navi) - Workspace navigation and management for Jujutsu
+- [jj-gh](https://github.com/mrjones2014/jj-gh) - jj tools for working with GitHub PRs from your terminal
+- [stakk](https://github.com/glennib/stakk) - A tool that bridges Jujutsu bookmarks to GitHub stacked pull requests
 
 ### Misc Tools
 
-- https://github.com/junglerobba/diffsoup - A Gerrit-style patchset diff viewer for pull requests, using jujutsu
-- https://github.com/modem-dev/hunk - A review-first terminal diff viewer for agent-authored changesets
-- https://github.com/laulauland/jj-hunk - Programmatic hunk selection for Jujutsu
-- https://github.com/acarapetis/jj-pre-push - Run pre-commit before `jj git push`
-- https://github.com/neongreen/mono/tree/main/jj-run - A tool to execute shell commands across multiple repository changes in isolated workspaces using jj
-- https://github.com/dmmulroy/jj-starship - Unified Starship prompt module for Git and Jujutsu
-- https://github.com/jnsahaj/lumen - A diff viewer and code review TUI and CLI to generate commit messages with AI
-- https://github.com/anthrofract/majjit - A TUI to manipulate the Jujutsu DAG
+- [diffsoup](https://github.com/junglerobba/diffsoup) - A Gerrit-style patchset diff viewer for pull requests, using jujutsu
+- [hunk](https://github.com/modem-dev/hunk) - A review-first terminal diff viewer for agent-authored changesets
+- [jj-hunk](https://github.com/laulauland/jj-hunk) - Programmatic hunk selection for Jujutsu
+- [jj-pre-push](https://github.com/acarapetis/jj-pre-push) - Run pre-commit before `jj git push`
+- [jj-run](https://github.com/neongreen/mono/tree/main/jj-run) - A tool to execute shell commands across multiple repository changes in isolated workspaces using jj
+- [jj-starship](https://github.com/dmmulroy/jj-starship) - Unified Starship prompt module for Git and Jujutsu
+- [lumen](https://github.com/jnsahaj/lumen) - A diff viewer and code review TUI and CLI to generate commit messages with AI
+- [majjit](https://github.com/anthrofract/majjit) - A TUI to manipulate the Jujutsu DAG
+- [hrd](https://github.com/hugoh/hrd) - Multi-repo manager (TUI & CLI) for git and jj with parallel dispatch and live status
+- [jj-trim](https://github.com/hugoh/jj-trim) - Clean up merged bookmarks and abandoned anonymous commits in a jj repository
 
 ## Forges
 
