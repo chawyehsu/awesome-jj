@@ -66,7 +66,7 @@
 - [Jujutsu for Everyone](https://jj-for-everyone.github.io/) by Remo Senekowitsch
 - [Steve's Jujutsu tutorial](https://steveklabnik.github.io/jujutsu-tutorial/) by Steve Klabnik
 - [Evan's Jujutsu Tutorial](https://evmar.github.io/jjtut/) by Evan Martin
-- [Ju! Ju! Tsu!](https://arialdo.codeberg.page/ju-ju-tsu/) by Arialdo Martini
+- [Ju! Ju! Tsu!](https://arialdo.codeberg.page/ju-ju-tsu/pdf) by Arialdo Martini
 - [Juju-chu! — Starting Your Jujutsu × AI Workflow with `jj new`](https://leanpub.com/juju-chu) by Yuka Ooka
 
 ## Videos
