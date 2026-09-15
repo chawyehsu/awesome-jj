@@ -60,6 +60,7 @@
 - 03/2026 [Reviewing large changes with Jujutsu](https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/) by Ben Gesoff
 - 04/2026 [Jujutsu megamerges for fun and profit](https://isaaccorbrey.com/notes/jujutsu-megamerges-for-fun-and-profit) by Isaac Corbrey
 - 06/2026 [Jujutsu: The Git Upgrade You Didn't Know You Needed](https://www.git-tower.com/blog/jujutsu) by Bruno Brito
+- 08/2026 [GitHub Stacks in Jujutsu](https://alan.norbauer.com/articles/github-stacks-with-jujutsu/) by Alan Norbauer
 
 ## Books
 
