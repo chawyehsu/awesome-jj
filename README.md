@@ -90,6 +90,7 @@
 - 05/2026 [TokioConf 2026 - jj: Simpler and More Powerful Than Git by Steve Klabnik](https://www.youtube.com/watch?v=n8KzCUyId_Y)
 - 07/2026 [JJ Version Control System | Simpler Git Alternative](https://www.youtube.com/watch?v=LPQJEyr4El8)
 - 08/2026 [Git, But Better: An Introduction to JJ | Pauline Vos at Laracon US 2026](https://www.youtube.com/watch?v=o9LqfuRBW1U)
+- 09/2026 [JJ Con 2026](https://www.youtube.com/watch?v=DFjbAsWQ9ns)
 
 ## Tools
 
